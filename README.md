@@ -21,4 +21,4 @@
 ## ⚙️ Run Locally
 ```bash
 pip install -r requirements.txt
-python AirBridge_single_instance.py
+python AirBridge.py
