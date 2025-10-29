@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Flask-2.x-black?logo=flask" alt="Flask Version" />
   <img src="https://img.shields.io/badge/license-Apache%202.0-orange" alt="License" />
 </p>
-**AirBridge — Instant file & text sharing across your Wi-Fi.**
+AirBridge — Instant file & text sharing across your Wi-Fi.
 
 > Fast, secure, and link-free sharing of files and clipboard across your local network.  
 > Built for privacy, performance, and simplicity — all local, no cloud.
