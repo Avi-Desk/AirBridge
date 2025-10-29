@@ -1,5 +1,16 @@
 # 🛰️ AirBridge
 
+p align="center">
+  <img src="logo.png" width="100" />
+</p>
+<p align="center">
+  <b>AirBridge — Instant File & Text Sharing Across Wi-Fi</b><br>
+  <a href="https://github.com/Avi-Desk/AirBridge/releases"><img src="https://img.shields.io/github/v/release/Avi-Desk/AirBridge?color=brightgreen&label=latest%20release"></a>
+  <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python">
+  <img src="https://img.shields.io/badge/Flask-2.x-black?logo=flask">
+  <img src="https://img.shields.io/badge/license-Apache%202.0-orange">
+</p>
+
 **AirBridge — Instant file & text sharing across your Wi-Fi.**
 
 > Fast, secure, and link-free sharing of files and clipboard across your local network.  
