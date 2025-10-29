@@ -1,5 +1,5 @@
 # 🛰️ AirBridge
-<img src="logo.png" width="100" />
+<img src="Logo.png" width="100" />
 </p>
 <p align="center">
   <b>AirBridge — Instant File & Text Sharing Across Wi-Fi</b><br>
