@@ -1,6 +1,6 @@
 # 🛰️ AirBridge
 <p align="center">
-  <img src="logo.png" width="100" alt="AirBridge Logo" />
+  <img src="logo.png" width="140" alt="AirBridge Logo" />
 </p>
 
 <p align="center">
@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/Flask-2.x-black?logo=flask" alt="Flask Version" />
   <img src="https://img.shields.io/badge/license-Apache%202.0-orange" alt="License" />
 </p>
-
 **AirBridge — Instant file & text sharing across your Wi-Fi.**
 
 > Fast, secure, and link-free sharing of files and clipboard across your local network.  
