@@ -1,6 +1,6 @@
 # 🛰️ AirBridge
 <p align="center">
-  <img src="logo.png" width="140" alt="AirBridge Logo" />
+  <img src="logo.png" width="400" alt="AirBridge Logo" />
 </p>
 
 <p align="center">
